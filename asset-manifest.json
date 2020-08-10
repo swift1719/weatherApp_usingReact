@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/swift1719/weatherApp_usingReact/static/css/main.dc39f6db.chunk.css",
+    "main.js": "/swift1719/weatherApp_usingReact/static/js/main.86af8173.chunk.js",
+    "main.js.map": "/swift1719/weatherApp_usingReact/static/js/main.86af8173.chunk.js.map",
+    "runtime-main.js": "/swift1719/weatherApp_usingReact/static/js/runtime-main.d3c89ef2.js",
+    "runtime-main.js.map": "/swift1719/weatherApp_usingReact/static/js/runtime-main.d3c89ef2.js.map",
+    "static/css/2.14c93bbb.chunk.css": "/swift1719/weatherApp_usingReact/static/css/2.14c93bbb.chunk.css",
+    "static/js/2.11834bb4.chunk.js": "/swift1719/weatherApp_usingReact/static/js/2.11834bb4.chunk.js",
+    "static/js/2.11834bb4.chunk.js.map": "/swift1719/weatherApp_usingReact/static/js/2.11834bb4.chunk.js.map",
+    "index.html": "/swift1719/weatherApp_usingReact/index.html",
+    "precache-manifest.cf53960abdd96bf2bc44c57f2b54e654.js": "/swift1719/weatherApp_usingReact/precache-manifest.cf53960abdd96bf2bc44c57f2b54e654.js",
+    "service-worker.js": "/swift1719/weatherApp_usingReact/service-worker.js",
+    "static/css/2.14c93bbb.chunk.css.map": "/swift1719/weatherApp_usingReact/static/css/2.14c93bbb.chunk.css.map",
+    "static/css/main.dc39f6db.chunk.css.map": "/swift1719/weatherApp_usingReact/static/css/main.dc39f6db.chunk.css.map",
+    "static/js/2.11834bb4.chunk.js.LICENSE.txt": "/swift1719/weatherApp_usingReact/static/js/2.11834bb4.chunk.js.LICENSE.txt",
+    "static/media/cov1.jpg": "/swift1719/weatherApp_usingReact/static/media/cov1.453135b2.jpg",
+    "static/media/weather-icons.css": "/swift1719/weatherApp_usingReact/static/media/weathericons-regular-webfont.ed0943f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3c89ef2.js",
+    "static/css/2.14c93bbb.chunk.css",
+    "static/js/2.11834bb4.chunk.js",
+    "static/css/main.dc39f6db.chunk.css",
+    "static/js/main.86af8173.chunk.js"
+  ]
+}
