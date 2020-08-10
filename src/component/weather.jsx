@@ -32,7 +32,7 @@ class Weather extends React.Component {
 								<img src={Img} className="card-img-top " alt="..." />
 								<div className="card-body">
 									<h5 className="card-title">
-										<strong>{update.Country} Stats</strong>
+										<strong>{update.Country} Status</strong>
 									</h5>
 									<h5 className="alert alert-danger">Active cases: {update.Active}</h5>
 									<p className="card-text">
@@ -49,7 +49,7 @@ class Weather extends React.Component {
 								<img src={Img} className="card-img-top " alt="..." />
 								<div className="card-body">
 									<h5 className="card-title">
-										<strong>World Stats</strong>
+										<strong>World Status</strong>
 									</h5>
 									<h5 className="alert alert-danger">
 										Last 24 hours : {this.props.covid.NewConfirmed}
