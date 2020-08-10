@@ -2,8 +2,6 @@
 	"homepage": "https://swift1719.github.io/weatherApp_usingReact",
 	"name": "weather_app",
 	"version": "0.1.0",
-	"proxy": "https://cors-anywhere.herokuapp.com/",
-
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^4.2.4",
