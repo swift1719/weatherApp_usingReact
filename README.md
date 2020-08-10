@@ -1,3 +1,8 @@
+Deployed : https://swift1719.github.io/weatherApp_usingReact/
+
+Note: sometimes proxy service is unable due to which CORS error appears ; thereby humble request try after sometime.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
